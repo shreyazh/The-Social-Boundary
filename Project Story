@@ -1,0 +1,28 @@
+## Inspiration  
+Understanding how social boundaries evolve across humans, animals, and AI interactions inspired this research. By integrating psychology, sociology, and ethology, we aim to model the fluid nature of sociability.  
+
+## What it does  
+The Social Boundary framework quantifies and explains the dynamic limits of interaction comfort, adapting based on familiarity, context, and frequency. It applies to human relationships, AI-human interactions, and interspecies communication.  
+
+## How we built it  
+We synthesized theories like Social Penetration Theory, Dunbar’s Number, and Politeness Theory, constructing a mathematical model to represent boundary evolution. Observational studies, case analyses, and AI behavior modeling inform our approach.  
+
+## Challenges we ran into  
+- Capturing the variability of social boundaries across different species and cultural contexts.  
+- Developing a mathematical model that accounts for immediate and gradual shifts in familiarity.  
+- Ensuring AI-driven interactions adapt ethically without overstepping user comfort.  
+
+## Accomplishments that we're proud of  
+- Proposing a unified model applicable to human, AI, and interspecies sociability.  
+- Highlighting the impact of first-time interactions in rapidly shifting social boundaries.  
+- Outlining applications for AI-human engagement, urban social integration, and cross-cultural studies.  
+
+## What we learned  
+- Social boundaries are more fluid than previously understood, sometimes shrinking rapidly.  
+- AI and robotics can benefit from adaptive sociability models to improve human interaction.  
+- Context plays a crucial role in determining the pace of boundary adjustments.  
+
+## What's next for The Social Boundary  
+- Empirical validation through surveys, AI-human interaction tests, and animal studies.  
+- Exploring neuroscience to understand brain activity linked to boundary shifts.  
+- Expanding applications in digital communication, diplomacy, and conservation efforts.  
